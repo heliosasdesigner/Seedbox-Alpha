@@ -36,7 +36,7 @@ I believe we need a new way to communicate with LLMs. Adopting an intuitive grap
 
 ## Getting Started 🚀
 
-Make sure you've downloaded Ollama and your favorite models. Customize your chatbot experience through the simple config/model-settings.json file.
+Make sure you've downloaded Ollama and your favorite models. 
 
 ---
 
