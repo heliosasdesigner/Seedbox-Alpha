@@ -65,6 +65,7 @@ Make sure you've downloaded Ollama and your favorite models. Customize your chat
 
 ## How to Use 🎈
 
+- Ollama and the Downloaded model are needed :) 
 - Open the app and start chatting!
 - Easily move around using the sidebar.
 - Enjoy peace of mind knowing all your interactions are securely stored on your device.
