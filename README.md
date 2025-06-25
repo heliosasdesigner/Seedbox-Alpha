@@ -49,16 +49,16 @@ Make sure you've downloaded Ollama and your favorite models. Customize your chat
 ## Demo & Screenshots
 
 ### Screenshots
-![Chatroom Screenshot](chatroom.png)
+![Chatroom Screenshot](Screens/chatroom.png)
 
 ##### Theme
-![Cover Dark](cover-dark.png)
-![Cover Light](cover-light.png)
+![Cover Dark](Screens/cover-dark.png)
+![Cover Light](Screens/cover-light.png)
 
 ### Demo Videos
-- [Get Response Demo (.mov)](getresponse.mov)
-- [Move Nodes Demo (.mov)](move%20nodes.mov)
-- [Selection Model Demo (.mov)](selectionModel.mov)
+- [Get Response Demo (.mov)](Screens/getresponse.mov)
+- [Move Nodes Demo (.mov)](Screens/move%20nodes.mov)
+- [Selection Model Demo (.mov)](Screens/selectionModel.mov)
 
 ---
 
